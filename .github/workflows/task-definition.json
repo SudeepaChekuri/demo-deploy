@@ -81,6 +81,6 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2023-03-01T18:24:59.048Z",
-    "registeredBy": "arn:aws:iam::454042841093:assumed-role/Github/Github",",
+    "registeredBy": "arn:aws:iam::454042841093:assumed-role/Github/Github",
     "tags": []
 }
